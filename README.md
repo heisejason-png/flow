@@ -128,3 +128,4 @@ See [tests/README.md](tests/README.md) for detailed testing documentation.
 
 ## License
 Flow is MIT-licensed ([LICENSE](https://github.com/facebook/flow/blob/main/LICENSE)). The [website](https://flow.org/) and [documentation](https://flow.org/en/docs/) are licensed under the Creative Commons Attribution 4.0 license ([website/LICENSE-DOCUMENTATION](https://github.com/facebook/flow/blob/main/website/LICENSE-DOCUMENTATION)).
+Created By Jason Scott Heise
